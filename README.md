@@ -2,7 +2,10 @@
 
 Objetivo: aprender flutter e dart
 
-Componentes: coloquei quatro FloatingActionButton => incrementar o contador, decrementar o contador, mudar a cor de fundo do app e alterar o nome do app baseado em uma lista com 3 nomes.
+Componentes: 
+- quatro botões flutuantes (FloatingActionButton) para incrementar e decrementar o contador,
+- alterar a cor de fundo do aplicativo,
+- mudar o nome do aplicativo com base em uma lista de três nomes.
 
 ### Preview:
 
